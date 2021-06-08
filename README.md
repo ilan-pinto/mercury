@@ -17,7 +17,7 @@ __(Under construction)__
 We welcome contributions! Here's how you can contribute:
 
 * _Browse issues_ or _file an issue_
-* Chat with us on [ZulipChat](https://mercury.zulipchat.com/)
+
 * Contribute:
    * Read the _contributing guide_ before starting work on an issue
    * Try to fix _good first issues_
